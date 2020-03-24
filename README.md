@@ -1,5 +1,5 @@
 Full Name: Adewumi Oluwafunmike
 Email Address: oluwafunmike.adewumi@gmail.com
-Slack Ursername: Oluwafunmike
+Slack Username: Oluwafunmike
 Track: Front-end
 Courses: Javascript, HTML, CSS
